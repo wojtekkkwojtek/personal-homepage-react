@@ -1,0 +1,1 @@
+export const email = "wojciech.kurdzielewicz@protonmail.com";
